@@ -76,12 +76,12 @@ Desenvolva uma API Rest para um sistema gerenciador de tarefas
 prioridade.
 
 Desenvolver utilizando:
-    - Linguagem PHP (ou framework CakePHP);
-    - Banco de dados MySQL;
+    * Linguagem PHP (ou framework CakePHP);
+    * Banco de dados MySQL;
 Diferenciais:
-    - Criação de interface para visualização da lista de tarefas; (Implementado)
-    - Interface com drag and drop;
-    - Interface responsiva (desktop e mobile); (Implementado)
+    * Criação de interface para visualização da lista de tarefas; (Implementado)
+    * Interface com drag and drop;
+    * Interface responsiva (desktop e mobile); (Implementado)
 
 ### Solução: 
 

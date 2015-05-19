@@ -3,6 +3,7 @@ App::uses('AppController', 'Controller');
 
 class TasksController extends AppController
 {
+
     public $helpers = array('Html', 'Form');
     public $paginate = array(
         'fields' => array('id', 'name', 'description', 'priority', "created", "modified"),
